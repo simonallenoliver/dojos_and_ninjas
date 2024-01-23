@@ -1,0 +1,11 @@
+
+.bigbox{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.submitButton{
+    margin-top: 15px;
+    margin-left: 135px;
+}
